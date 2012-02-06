@@ -60,7 +60,7 @@ app.get "/", (req,res) ->
     videos = vimeo.videos[0..3].map (v) ->
       {
         title: v.title,
-        a: {
+        link: {
           href: v.url
         },
         thumb: {
