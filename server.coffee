@@ -44,7 +44,6 @@ app.get "/", (req,res) ->
   Job.find().limit(3).sort('date',-1).run (err, docs) ->
     jobs = docs.map (j) ->
       {
-        date: j.date.toDateString(),
         company: {
           href: j.company_url,
           innerHTML: j.company_name
@@ -53,9 +52,6 @@ app.get "/", (req,res) ->
         location: j.location,
         title: j.job_title,
         description: md(j.description, true),
-        apply: {
-          href: "mailto:#{j.email}"
-        }
       }
     videos = vimeo.videos[0..3].map (v) ->
       {
