@@ -76,7 +76,7 @@ app.get "/", (req,res) ->
           data: videos
         }
         'ul#jobs':{
-          partial: 'job.html',
+          partial: 'small_job.html',
           data: jobs
         }
       }
