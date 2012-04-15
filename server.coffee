@@ -41,7 +41,7 @@ Job = mongoose.model 'Job', JobSchema
 
 # server routes
 app.get "/", (req,res) ->
-  Job.find().limit(3).sort('date',-1).run (err, docs) ->
+  Job.where('date').gt(Date.parse('-30days')).sort('date',-1).run (err, docs) ->
     jobs = docs.map (j) ->
       {
         company: {
