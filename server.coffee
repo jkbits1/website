@@ -128,6 +128,10 @@ app.post '/submit', (req,res) ->
          '.error': 'Invalid password'
        }
 
+app.get '/nodecopter', (req,res) ->
+  res.render 'nodecopter.html',
+    selectors: {}
+
 sizlate.startup app, (app) ->
   port = process.env.PORT || 8080
   app.listen port
