@@ -9,18 +9,12 @@ mongoose.connect process.env['MONGOHQ_URL'] || 'mongodb://localhost/lnug'
 Schema = mongoose.Schema
 ObjectId = Schema.ObjectId
 
-app = express.createServer()
+app = express()
 
-app.register '.html', require('ejs')
-app.register '.html', sizlate
-
-app.configure ->
-  app.use(express.bodyParser())
-  app.set('dirname', __dirname)
-  app.use(app.router)
-  app.use(express.static(__dirname + "/public/"))
-  app.use(express.errorHandler({ dumpExceptions: true, showStack: true}))
-  app.set('views',__dirname + "/views/")
+app.set('view engine', 'sizlate')
+app.set('views', __dirname + '/views');
+app.use(express.static(__dirname + "/public/"))
+app.use(express.bodyParser())
 
 vimeo = require('./lib/vimeo')
 vimeo.keyword = 'LNUG'
@@ -41,98 +35,102 @@ Job = mongoose.model 'Job', JobSchema
 
 # server routes
 app.get "/", (req,res) ->
-  Job.where('date').gt(Date.parse('-30days')).sort('date',-1).run (err, docs) ->
+  Job.where('date').gt(Date.parse('-30days')).sort('date').exec (err, docs) ->
     jobs = docs.map (j) ->
       {
-        company: {
+        '.company': {
           href: j.company_url,
           innerHTML: j.company_name
         },
-        type: j.type
-        location: j.location,
-        title: j.job_title,
-        description: md(j.description, true),
+        '.type': j.type
+        '.location': j.location,
+        '.title': j.job_title,
+        '.description': md(j.description, true),
       }
     videos = vimeo.videos[0..3].map (v) ->
       {
-        title: v.title,
-        link: {
+        '.title': v.title,
+        '.link': {
           href: v.url
         },
-        thumb: {
+        '.thumb': {
           src: v.thumbnail_medium,
           alt: v.title
         }
       }
 
-    res.render 'index.html',
+    res.render 'index',
+      layout: 'layout',
       selectors: {
         'ul#videos':{
-          partial: 'video.html',
+          partial: 'video',
           data: videos
         }
         'ul#jobs':{
-          partial: 'small_job.html',
+          partial: 'small_job',
           data: jobs
         }
       }
 
 app.get '/jobs', (req,res) ->
-  Job.where('date').gt(Date.parse('-30days')).sort('date',-1).run (err, docs) ->
+  Job.where('date').gt(Date.parse('-30days')).sort('date').exec (err, docs) ->
     if docs
       jobs = docs.map (j) ->
         {
-          date: j.date.toDateString(),
-          company: {
+          '.date': j.date.toDateString(),
+          '.company': {
             href: j.company_url,
             innerHTML: j.company_name
           },
-          type: j.type
-          location: j.location,
-          title: j.job_title,
-          description: md(j.description, true),
-          apply: {
+          '.type': j.type
+          '.location': j.location,
+          '.title': j.job_title,
+          '.description': md(j.description, true),
+          '.apply': {
             href: "mailto:#{j.email}"
           }
         }
     else
       jobs = []
 
-    res.render 'jobs.html',
+    res.render 'jobs',
+      layout: 'layout',
       selectors: {
         'ul#jobs':{
-          partial: 'job.html',
+          partial: 'job',
           data: jobs
         }
       }
 
 app.get '/submit', (req,res) ->
-  res.render 'submit.html',
+  res.render 'submit',
+    layout: 'layout',
     selectors: {}
 
 app.post '/submit', (req,res) ->
   job = new Job(req.body)
-  if req.body.password == process.env['JOB_PASSWORD']
+  if req.body.password == (process.env['JOB_PASSWORD'] || 'password')
     job.save (err) ->
       if err
         console.log(err)
-        res.render 'submit.html',
+        res.render 'submit',
+          layout: 'layout',
            selectors: {
              '.error': 'Invalid submission, all fields are required'
            }
       else
         res.redirect '/jobs'
   else
-    res.render 'submit.html',
+    res.render 'submit',
+      layout: 'layout',
        selectors: {
          '.error': 'Invalid password'
        }
 
 app.get '/nodecopter', (req,res) ->
-  res.render 'nodecopter.html',
-    selectors: {}
+  res.render 'nodecopter',
+    layout: 'layout'
 
-sizlate.startup app, (app) ->
-  port = process.env.PORT || 8080
-  app.listen port
-  console.log "Listening on Port '#{port}'"
+port = process.env.PORT || 8080
+app.listen port
+console.log "Listening on Port '#{port}'"

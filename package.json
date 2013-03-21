@@ -1,16 +1,17 @@
 {
   "name": "lnug",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
-      "node": "0.8.0"
+    "node": "0.10.0",
+    "npm": "1.2.12"
   },
   "dependencies": {
-    "coffee-script": "1.1.2",
-    "express": "2.5.0",
-    "sizlate": "0.2.0",
-    "mongoose": "2.4.10",
+    "coffee-script": "1.6.2",
+    "express": "3.1.0",
+    "sizlate": "0.8.1",
+    "mongoose": "3.6.0",
     "datejs": "0.0.2",
-    "node-markdown": "0.1.0",
-    "ejs":  "0.6.1"
+    "node-markdown": "0.1.1",
+    "ejs":  "0.8.3"
   }
 }
