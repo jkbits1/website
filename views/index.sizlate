@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        27th March 2013.
+        24th April 2013.
       </strong>
     </p>
     <p>
@@ -14,24 +14,20 @@
       </strong>
       , with our talks starting at 7pm.
     </p>
-    <ul>
-      <li><a href='http://twitter.com/bahulneel'>Bahul Neel Upadhyaya</a> - To infinity and beyond! Protocols and lazy sequences in node (Part 2)</li>
-      <li><a href='http://twitter.com/simonmcmanus'>Simon McManus</a> - Building Roca style web apps with Sizlate and Node.js</li>
-      <li><a href='http://twitter.com/Ph0bu5'>Steven Robinson</a> - TBC</li>
-    </ul>
+    <strong>Talks to be announed soon.</strong>
     <p>Bring along your laptops and work on node projects, pair with others on cool hacks or open source projects or just hang out and chat with all the usual refreshments.</p>
 
     <p>If you would like to speak, <a href='mailto:venue@forward.co.uk?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='http://lnugmar13.eventbrite.com'>Register @ Eventbrite</a>
+        <a href='http://lnugapr13.eventbrite.com'>Register @ Eventbrite</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2013/lnug-march/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2013/lnug-april/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2013/lnug-march/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2013/lnug-april/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -128,7 +124,12 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
-        <h3>February 2013 - <a href='http://lanyrd.com/2013/lnug-february/'>Lanyrd</a></h3>
+    <h3>March 2013 - <a href='http://lanyrd.com/2013/lnug-march/'>Lanyrd</a></h3>
+    <ul>
+        <li><a href='http://twitter.com/bahulneel'>Bahul Neel Upadhyaya</a> - To infinity and beyond! Protocols and lazy sequences in node #2</li>
+        <li><a href='http://twitter.com/simonmcmanus'>Simon McManus</a> - Building Roca style web apps with Sizlate and Node.js</li>
+        </ul>
+    <h3>February 2013 - <a href='http://lanyrd.com/2013/lnug-february/'>Lanyrd</a></h3>
     <ul>
       <li><a href='http://twitter.com/henryoswald'>Henry Oswald</a> - Practical patterns for building and testing Node.js apps</li>
       <li><a href='http://twitter.com/dshaw'>Daniel Shaw</a> - Adventures in Production Node.js</li>
