@@ -2,18 +2,25 @@
 
 The code for http://lnug.org
 
-## Instructions
+## Dependencies
 
-    git clone git://github.com/forward/lnug.git
-    cd lnug
+* MongoDB
+* Node.js >= 0.10.0
+* CoffeeScript
+
+## Install instructions
+
+    git clone git://github.com/lnug/website.git
+    cd website
     npm install
-    coffee server.coffee
+    npm install coffee-script -g
+    npm start
     open http://localhost:8080
 
 ## Development
 
-Source hosted at [GitHub](http://github.com/forward/lnug).
-Report Issues/Feature requests on [GitHub Issues](http://github.com/forward/lnug/issues).
+Source hosted at [GitHub](http://github.com/lnug/website).
+Report Issues/Feature requests on [GitHub Issues](http://github.com/lnug/website/issues).
 
 ### Note on Patches/Pull Requests
 
@@ -25,4 +32,4 @@ Report Issues/Feature requests on [GitHub Issues](http://github.com/forward/lnug
 
 ## Copyright
 
-Copyright (c) 2012 Forward. See [LICENSE](https://github.com/forward/lnug/blob/master/LICENSE) for details.
+Copyright (c) 2013 Forward Internet Group. See [LICENSE](https://github.com/lnug/website/blob/master/LICENSE) for details.
