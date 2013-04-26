@@ -22,14 +22,14 @@
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
-      <li class='register'>
+      <!-- <li class='register'>
         <a href='http://lnugapr13.eventbrite.com'>Register @ Eventbrite</a>
-      </li>
+      </li> -->
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2013/lnug-april/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2013/lnug-may/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2013/lnug-april/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2013/lnug-may/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
