@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        24th April 2013.
+        22th May 2013.
       </strong>
     </p>
     <p>
@@ -14,11 +14,9 @@
       </strong>
       , with our talks starting at 7pm.
     </p>
-    
-    <ul>
-      <li><a href='http://twitter.com/insertcoffee'>Peter Johnson</a> and <a href='http://twitter.com/Liquidimage_'>Tancredi Trugenberge</a> - All your base are belong to us</li>
-      <li><a href='http://twitter.com/_alanshaw'>Alan Shaw</a> - Node dependency management - David is watching</li>
-    </ul>
+
+    <p><strong>Talks to be announced soon</strong></p>
+
     <p>Bring along your laptops and work on node projects, pair with others on cool hacks or open source projects or just hang out and chat with all the usual refreshments.</p>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
@@ -133,6 +131,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+    
+    <h3>April 2013 - <a href='http://lanyrd.com/2013/lnug-april/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href='http://twitter.com/insertcoffee'>Peter Johnson</a> and <a href='http://twitter.com/Liquidimage_'>Tancredi Trugenberge</a> - All your base are belong to us</li>
+      <li><a href='http://twitter.com/_alanshaw'>Alan Shaw</a> - Node dependency management - David is watching</li>
+    </ul>
+
     <h3>March 2013 - <a href='http://lanyrd.com/2013/lnug-march/'>Lanyrd</a></h3>
     <ul>
         <li><a href='http://twitter.com/bahulneel'>Bahul Neel Upadhyaya</a> - To infinity and beyond! Protocols and lazy sequences in node #2</li>
