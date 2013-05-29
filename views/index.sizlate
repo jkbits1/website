@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        22th May 2013.
+        26th June 2013.
       </strong>
     </p>
     <p>
@@ -16,9 +16,9 @@
     </p>
 
     <ul>
-      <li><a href='http://twitter.com/shaundunne'>Shaun Dunne</a> - Grunt your way to Glory</li>
-      <li><a href='http://twitter.com/MathieuLoutre'>Mathieu Triay</a> - Up and running with Hapi</li>
-      <li><a href='http://twitter.com/suprememoocow'>Andrew Newdigate</a> and <a href='http://twitter.com/mydigitalself'>Mike Bartlett</a> -  Live Collections with Backbone and Faye</li>
+      <li><a href='http://twitter.com/adamyeats'>Adam Yeats</a> - Promises in Node.js</li>
+      <li><a href='http://twitter.com/ErisDS'>Hannah Wolfe</a> - TBC</li>
+      <li><a href='http://twitter.com/antonwhalley'>Anton Whalley</a> - TBC</li>
     </ul>
 
     <p>Bring along your laptops and work on node projects, pair with others on cool hacks or open source projects or just hang out and chat with all the usual refreshments.</p>
@@ -27,13 +27,13 @@
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='http://lnugmay13.eventbrite.com'>Register @ Eventbrite</a>
+        <a href='http://lnugjune13.eventbrite.com'>Register @ Eventbrite</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2013/lnug-may/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2013/lnug-june/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2013/lnug-may/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2013/lnug-june/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -135,6 +135,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>May 2013 - <a href='http://lanyrd.com/2013/lnug-april/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href='http://twitter.com/shaundunne'>Shaun Dunne</a> - Grunt your way to Glory</li>
+      <li><a href='http://twitter.com/MathieuLoutre'>Mathieu Triay</a> - Up and running with Hapi</li>
+      <li><a href='http://twitter.com/suprememoocow'>Andrew Newdigate</a> and <a href='http://twitter.com/mydigitalself'>Mike Bartlett</a> -  Live Collections with Backbone and Faye</li>
+    </ul>
     
     <h3>April 2013 - <a href='http://lanyrd.com/2013/lnug-april/'>Lanyrd</a></h3>
     <ul>
