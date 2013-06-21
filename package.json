@@ -4,9 +4,14 @@
   "author": "Andrew Nesbitt <andrewnez@gmail.com> (http://andrew.github.com)",
   "description": "London Node.js User Group Website",
   "homepage": "https://github.com/lnug/website",
-  "keywords": ["london", "user group", "lnug"],
-  "bugs" :
-    { "url" : "https://github.com/lnug/website/issues" },
+  "keywords": [
+    "london",
+    "user group",
+    "lnug"
+  ],
+  "bugs": {
+    "url": "https://github.com/lnug/website/issues"
+  },
   "licenses": [
     {
       "type": "MIT",
@@ -27,10 +32,10 @@
   "dependencies": {
     "coffee-script": "1.6.2",
     "express": "3.1.0",
-    "sizlate": "0.8.1",
+    "sizlate": "0.8.3",
     "mongoose": "3.6.3",
-    "datejs": "0.0.2",
     "node-markdown": "0.1.1",
-    "ejs":  "0.8.3"
+    "ejs": "0.8.3",
+    "moment": "~2.0.0"
   }
 }

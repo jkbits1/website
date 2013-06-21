@@ -1,7 +1,7 @@
 express = require 'express'
 sizlate = require 'sizlate'
 mongoose = require 'mongoose'
-require 'datejs'
+moment = require 'moment'
 md = require("node-markdown").Markdown
 
 mongoose.connect process.env['MONGOHQ_URL'] || 'mongodb://localhost/lnug'
@@ -35,7 +35,7 @@ Job = mongoose.model 'Job', JobSchema
 
 # server routes
 app.get "/", (req,res) ->
-  Job.where('date').gt(Date.parse('-30days')).sort('date').exec (err, docs) ->
+  Job.where('date').gt(moment().day(-30)).sort('date').exec (err, docs) ->
     jobs = docs.map (j) ->
       {
         '.company': j.company_name
@@ -70,7 +70,7 @@ app.get "/", (req,res) ->
       }
 
 app.get '/jobs', (req,res) ->
-  Job.where('date').gt(Date.parse('-30days')).sort('date').exec (err, docs) ->
+  Job.where('date').gt(moment().day(-30)).sort('date').exec (err, docs) ->
     if docs
       jobs = docs.map (j) ->
         {
