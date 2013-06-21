@@ -78,7 +78,10 @@ app.get '/jobs', (req,res) ->
       jobs = docs.map (j) ->
         {
           '.date': j.date.toDateString(),
-          '.company': j.company_name
+          '.company': {
+            href: j.company_url,
+            innerHTML: j.company_name
+          },
           '.type': j.type
           '.location': j.location,
           '.title': j.job_title,

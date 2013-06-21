@@ -1,4 +1,4 @@
 <li class='job'>
-  <h3><span class='title'>Job Title</span> at <span class='company'>Company</span> in <span class='location'></span> (<span class='type'>type</span>)</h3>
+  <h3><span class='title'>Job Title</span> at <a class='company' href=''>Company</a> in <span class='location'></span> (<span class='type'>type</span>)</h3>
   <a href='/jobs'>Read More</a>
 </li>
