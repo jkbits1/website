@@ -38,7 +38,10 @@ app.get "/", (req,res) ->
   Job.where('date').gt(moment().day(-30)).sort('date').exec (err, docs) ->
     jobs = docs.map (j) ->
       {
-        '.company': j.company_name
+        '.company': {
+          href: j.company_url,
+          innerHTML: j.company_name
+        },
         '.type': j.type
         '.location': j.location,
         '.title': j.job_title,
