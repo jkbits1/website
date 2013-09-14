@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        28th August 2013.
+        25th September 2013.
       </strong>
     </p>
     <p>
@@ -17,19 +17,23 @@
 
     <h2>Lightning talks</h2>
 
-    <p>This montth we've got fifteen, five minute, high speed talks about all kinds different node.js topics, checkout all the speakers on <a href='http://lanyrd.com/2013/lnug-august/speakers/'>Lanyrd</a>.</p>
+    <ul>
+      <li><a href='http://twitter.com/ErisDS'>Hannah Wolfe</a> - TBC</li>
+      <li><a href='http://twitter.com/tgrall'>Tugdual Grall</a> - TBC</li>
+      <li><a href='http://twitter.com/knolleary'>Nick O'Leary</a> - TBC</li>
+    </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='http://lnugaugust13.eventbrite.com'>Register on Eventbrite</a>
+        <a href='http://lnugseptember13.eventbrite.com'>Register on Eventbrite</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2013/lnug-august/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2013/lnug-september/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2013/lnug-august/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2013/lnug-september/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -131,6 +135,20 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>August 2013 - <a href='http://lanyrd.com/2013/lnug-august/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href='http://twitter.com/richmarr'>Richard Marr</a></li>
+      <li><a href='http://twitter.com/kittylyst'>Ben Evans</a></li>
+      <li><a href='http://twitter.com/rtweed'>Rob Tweed</a></li>
+      <li><a href='http://twitter.com/olizilla'>Oli Evans</a></li>
+      <li><a href='http://twitter.com/alexHacked'>Alex Roche</a></li>
+      <li><a href='http://twitter.com/paul_tanner'>Paul Tanner</a></li>
+      <li><a href='http://twitter.com/_alanshaw'>Alan Shaw</a></li>
+      <li><a href='http://twitter.com/bjnortier'>Benjamin Nortier</a></li>
+      <li><a href='http://twitter.com/danielepolencic'>Daniele Polencic</a></li>
+      <li><a href='http://twitter.com/thattommyhall'>Tommy Hall</a></li>
+    </ul>
 
     <h3>July 2013 - <a href='http://lanyrd.com/2013/lnug-july/'>Lanyrd</a></h3>
     <ul>
