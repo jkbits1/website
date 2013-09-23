@@ -18,9 +18,9 @@
     <h2>Lightning talks</h2>
 
     <ul>
-      <li><a href='http://twitter.com/ErisDS'>Hannah Wolfe</a> - Node-RED, a visual tool for wiring the Internet of Things</li>
+      <li><a href='http://twitter.com/ErisDS'>Hannah Wolfe</a> - Ghost, Just a Blogging Platform</li>
       <li><a href='http://twitter.com/tgrall'>Tugdual Grall</a> - Building a node application with Couchbase, Node and Angular</li>
-      <li><a href='http://twitter.com/knolleary'>Nick O'Leary</a> - Ghost, Just a Blogging Platform</li>
+      <li><a href='http://twitter.com/knolleary'>Nick O'Leary</a> - Node-RED, a visual tool for wiring the Internet of Things</li>
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
