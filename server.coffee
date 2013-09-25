@@ -14,7 +14,7 @@ app = express()
 app.set('view engine', 'sizlate')
 app.set('views', __dirname + '/views');
 app.use(express.static(__dirname + "/public/"))
-app.use(express.bodyParser())
+app.use(express.urlencoded())
 
 vimeo = require('./lib/vimeo')
 vimeo.keyword = 'LNUG'
