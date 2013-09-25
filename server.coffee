@@ -123,9 +123,9 @@ app.post '/submit', (req,res) ->
   else
     res.render 'submit',
       layout: 'layout',
-       selectors: {
-         '.error': 'Invalid password'
-       }
+      selectors: {
+        '.error': 'Invalid password'
+      }
 
 app.get '/nodecopter', (req,res) ->
   res.render 'nodecopter',
