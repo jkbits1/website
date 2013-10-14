@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        25th September 2013.
+        23rd October 2013.
       </strong>
     </p>
     <p>
@@ -15,25 +15,25 @@
       , with our talks starting at 7pm.
     </p>
 
-    <h2>Lightning talks</h2>
+    <h2>Talks</h2>
 
     <ul>
-      <li><a href='http://twitter.com/ErisDS'>Hannah Wolfe</a> - Ghost, Just a Blogging Platform</li>
-      <li><a href='http://twitter.com/tgrall'>Tugdual Grall</a> - Building a node application with Couchbase, Node and Angular</li>
-      <li><a href='http://twitter.com/knolleary'>Nick O'Leary</a> - Node-RED, a visual tool for wiring the Internet of Things</li>
+      <li><a href='http://twitter.com/rem'>Remy Sharp</a> - TBC</li>
+      <li><a href='http://twitter.com/dwynne'>David Wynne</a> - TBC</li>
+      <li><a href='http://twitter.com/rayui'>Ray Brooks</a> - TBC</li>
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='http://lnugseptember13.eventbrite.com'>Register on Eventbrite</a>
+        <a href='http://lnugoctober13.eventbrite.com'>Register on Eventbrite</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2013/lnug-september/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2013/lnug-october/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2013/lnug-september/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2013/lnug-october/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -135,6 +135,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>September 2013 - <a href='http://lanyrd.com/2013/lnug-september/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href='http://twitter.com/ErisDS'>Hannah Wolfe</a> - Ghost, Just a Blogging Platform</li>
+      <li><a href='http://twitter.com/tgrall'>Tugdual Grall</a> - Building a node application with Couchbase, Node and Angular</li>
+      <li><a href='http://twitter.com/knolleary'>Nick O'Leary</a> - Node-RED, a visual tool for wiring the Internet of Things</li>
+    </ul>
 
     <h3>August 2013 - <a href='http://lanyrd.com/2013/lnug-august/'>Lanyrd</a></h3>
     <ul>
