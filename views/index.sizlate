@@ -4,23 +4,28 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        23rd October 2013.
+        27th November 2013.
       </strong>
     </p>
     <p>
-      Doors will open at 6:30pm where we will have
-      <strong>
-        Beer and Pizza (!)
-      </strong>
-      , with our talks starting at 7pm.
+      Doors will open at 5:30pm for:
     </p>
+    <ul>
+      <li>Nodeschool clinic for your workshopper quandries</li>
+      <li>
+          Beer and Pizza
+      </li>
+      <li>
+        ...and talks from 7pm
+      </li>
+    </ul>
 
     <h2>Talks</h2>
 
     <ul>
-      <li><a href='http://twitter.com/rem'>Remy Sharp</a> - The Bits Behind JS Bin</li>
-      <li><a href='http://twitter.com/dwynne'>David Wynne</a> - Something witty about DocPad and SSGs</li>
-      <li><a href='http://twitter.com/ForbesLindesay'>Forbes Lindesay</a> - Dissecting a real world node.js application: esdiscuss.org</li>
+      <li><a href='http://twitter.com/tfoureur'>Tristan Foureur</a> - Megatron : Javascript-to-javascript compiler</li>
+      <li><a href='http://twitter.com/pdp'>Petko D. Petkov</a> - Manage Your Dev Environments With Vortex</li>
+      <li><a href='http://twitter.com/NoWayJA'>Jonathan Anthony</a> - Selling Javascript to Clients</li>      
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
@@ -30,10 +35,10 @@
         <a href='http://lnugoctober13.eventbrite.com'>Register on Eventbrite</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2013/lnug-october/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2013/lnug-november/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2013/lnug-october/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2013/lnug-november/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -46,13 +51,14 @@
   <div class='column right' id='venue'>
     <h2>The Venue</h2>
     <div id='map'>
-      <a class='email' href='http://maps.google.co.uk/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=19+Mandela+Street,+Camden+Town&amp;amp;aq=0&amp;amp;sll=53.800651,-4.064941&amp;amp;sspn=18.828876,57.084961&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=19+Mandela+St,+London+NW1+0DU,+United+Kingdom&amp;amp;z=15' target='_blank' title='View on Google Maps'></a>
-      <img src='http://maps.googleapis.com/maps/api/staticmap?center=51.53794,-0.139500&amp;markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&amp;sensor=false&amp;zoom=15&amp;size=256x256&amp;maptype=roadmap' />
+      <a href='https://www.google.co.uk/maps?t=m&q=33+Hoxton+Square%2C+London&output=classic' target='_blank' title='View on Google Maps'>
+        <img src='http://maps.googleapis.com/maps/api/staticmap?center=51.5275243393,-0.0809630257082&amp;markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&amp;sensor=false&amp;zoom=15&amp;size=288x180&amp;maptype=roadmap' />
+      </a>
       <script src='http://maps.google.com/maps/api/js?sensor=false'></script>
       <script type='text/javascript'>
         //<![CDATA[
           function initializeMap() {
-            var latlng = new google.maps.LatLng(51.537928, -0.137403);
+            var latlng = new google.maps.LatLng(51.5275243393, -0.0809630257082);
             var myOptions = {
               zoom: 15,
               center: latlng,
@@ -70,11 +76,11 @@
       </script>
     </div>
     <address>
-      Floor 2, Centro 3
+      Shoreditch Village Hall,
       <br />
-      19 Mandela Street
+      33 Hoxton Square,
       <br />
-      London, NW1 0DU
+      London, N1 6PB
       <br />
       United Kingdom
     </address>
@@ -135,6 +141,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>October 2013 - <a href='http://lanyrd.com/2013/lnug-october/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href='http://twitter.com/rem'>Remy Sharp</a> - The Bits Behind JS Bin</li>
+      <li><a href='http://twitter.com/dwynne'>David Wynne</a> - Something witty about DocPad and SSGs</li>
+      <li><a href='http://twitter.com/ForbesLindesay'>Forbes Lindesay</a> - Dissecting a real world node.js application: esdiscuss.org</li>
+    </ul>
 
     <h3>September 2013 - <a href='http://lanyrd.com/2013/lnug-september/'>Lanyrd</a></h3>
     <ul>

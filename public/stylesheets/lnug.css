@@ -137,6 +137,10 @@ a, a:visited, ul#videos li a p {
     color:#000;
     border-bottom-color: #f2fd3f; }
 
+#map a {
+  padding: 0;
+}
+
 p, address {
   line-height: 26px; }
 
