@@ -25,14 +25,14 @@
     <ul>
       <li><a href='http://twitter.com/tfoureur'>Tristan Foureur</a> - Megatron : Javascript-to-javascript compiler</li>
       <li><a href='http://twitter.com/pdp'>Petko D. Petkov</a> - Manage Your Dev Environments With Vortex</li>
-      <li><a href='http://twitter.com/NoWayJA'>Jonathan Anthony</a> - Selling Javascript to Clients</li>      
+      <li><a href='http://twitter.com/NoWayJA'>Jonathan Anthony</a> - Selling Javascript to Clients</li>
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='http://lnugoctober13.eventbrite.com'>Register on Eventbrite</a>
+        <a href='http://lnugnovember13.eventbrite.com'>Register on Eventbrite</a>
       </li>
       <li class='lanyrd'>
         <a href='http://lanyrd.com/2013/lnug-november/'>Lanyrd</a>
@@ -190,7 +190,7 @@
       <li><a href='http://twitter.com/MathieuLoutre'>Mathieu Triay</a> - Up and running with Hapi</li>
       <li><a href='http://twitter.com/suprememoocow'>Andrew Newdigate</a> and <a href='http://twitter.com/mydigitalself'>Mike Bartlett</a> -  Live Collections with Backbone and Faye</li>
     </ul>
-    
+
     <h3>April 2013 - <a href='http://lanyrd.com/2013/lnug-april/'>Lanyrd</a></h3>
     <ul>
       <li><a href='http://twitter.com/insertcoffee'>Peter Johnson</a> and <a href='http://twitter.com/Liquidimage_'>Tancredi Trugenberge</a> - All your base are belong to us</li>
@@ -248,7 +248,7 @@
       <li><a href='http://twitter.com/vowelnoun'>Phil Deschaine</a> - Building a Real-Time Twitter Game in Node.js</li>
       <li><a href='http://twitter.com/felixge'>Felix Geisendörfer</a> - As fast as C? Writing high performance JavaScript parsers</li>
     </ul>
-    
+
     <h3>May 2012 - <a href='http://lanyrd.com/2012/lnug-may/'>Lanyrd</a></h3>
     <ul>
       <li><a href='http://twitter.com/hylomorphism'>Matthew Sackman</a> - Atomize JS - Safe Distributed Shared Objects</li>
