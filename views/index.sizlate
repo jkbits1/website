@@ -4,41 +4,36 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        27th November 2013.
+        20th January 2014.
       </strong>
     </p>
     <p>
-      Doors will open at 5:30pm for:
-    </p>
-    <ul>
-      <li>Nodeschool clinic for your workshopper quandries</li>
-      <li>
-          Beer and Pizza
-      </li>
-      <li>
-        ...and talks from 7pm
-      </li>
+      Doors will open at 6:30pm where we will have
+       <strong>
+         Beer and Pizza (!)
+        </strong>
+       , with our talks starting at 7pm.
     </ul>
 
     <h2>Talks</h2>
 
     <ul>
-      <li><a href='http://twitter.com/tfoureur'>Tristan Foureur</a> - Megatron : Javascript-to-javascript compiler</li>
-      <li><a href='http://twitter.com/NoWayJA'>Jonathan Anthony</a> - Selling Javascript to Clients</li>
-      <li><a href='http://twitter.com/_alanshaw'>Alan Shaw</a> - <a href="http://plugins.hood.ie/">Hoodie plugins</a></li>
+      <li><a href='http://twitter.com/alexHacked'>Alex Roche</a> - TBC</li>
+      <li><a href='http://twitter.com/alexandrosM'>Alexandros Marinos</a> - Resin.io - JS on your Raspberry Pi with a simple 'git push'</li>
+      <li><a href='http://twitter.com/rowanmanning'>Rowan Manning</a> - UX For Your Node Modules</li>
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='http://lnugnovember13.eventbrite.com'>Register on Eventbrite</a>
+        <a href='https://tito.io/lnug/january-2014'>Register on Tito</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2013/lnug-november/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2014/lnug-january/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2013/lnug-november/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2014/lnug-january/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -89,41 +84,6 @@
       Tweets
       <iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/follow_button.1363148939.html#_=1365113007323&amp;id=twitter-widget-4&amp;lang=en&amp;preview=true&amp;screen_name=LNUGorg&amp;show_count=false&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button twitter-follow-button" style="float:right; margin-top:5px; width: 120px; height: 20px;" title="Twitter Follow Button" data-twttr-rendered="true"></iframe>
     </h3>
-
-    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-    <script>
-    new TWTR.Widget({
-      version: 2,
-      type: 'search',
-      search: '#lnug',
-      interval: 2000,
-      title: '',
-      subject: '',
-      width: 300,
-      height: 200,
-      theme: {
-        shell: {
-          background: '#fff',
-          color: '#ffffff'
-        },
-        tweets: {
-          background: '#ffffff',
-          color: '#444444',
-          links: '#B3D46D'
-        }
-      },
-      features: {
-        scrollbar: false,
-        loop: true,
-        live: true,
-        hashtags: true,
-        timestamp: true,
-        avatars: true,
-        toptweets: true,
-        behavior: 'default'
-      }
-    }).render().start();
-    </script><br><br>
   </div>
 
   <div class='row clear'>
@@ -141,6 +101,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>November 2013 - <a href='http://lanyrd.com/2013/lnug-november/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href='http://twitter.com/tfoureur'>Tristan Foureur</a> - Megatron : Javascript-to-javascript compiler</li>
+      <li><a href='http://twitter.com/NoWayJA'>Jonathan Anthony</a> - Selling Javascript to Clients</li>
+      <li><a href='http://twitter.com/_alanshaw'>Alan Shaw</a> - Hoodie plugins</li>
+    </ul>
 
     <h3>October 2013 - <a href='http://lanyrd.com/2013/lnug-october/'>Lanyrd</a></h3>
     <ul>
