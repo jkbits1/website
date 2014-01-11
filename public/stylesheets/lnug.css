@@ -289,6 +289,23 @@ ul#videos li a:hover {
   display:none !important;
 }
 
+#yld {
+  background-color: #efffde;
+  border-radius: 5px;
+  padding: 1px;
+}
+
+#yld a {
+  border: 0;
+  color: #408396;
+}
+
+.yld_logo {
+  margin-left: 10px;
+  width: 36px;
+  height: 36px;
+  vertical-align: middle
+}
 #post_job input, textarea, select{
   display:inline-block;
   width:48%;
