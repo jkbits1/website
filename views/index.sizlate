@@ -44,6 +44,13 @@
     </p>
   </div>
   <div class='column right' id='venue'>
+    <div id='yld'>
+      <a href='http://yld.io?lovefrom=lnug&src=img'>
+        <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting' class='yld_logo'></a>
+      <span>
+        <a href='http://yld.io?lovefrom=lnug&src=text'>High Performance Node.js</a>
+      </span>
+    </div>
     <h2>The Venue</h2>
     <div id='map'>
       <a href='https://www.google.co.uk/maps?t=m&q=33+Hoxton+Square%2C+London&output=classic' target='_blank' title='View on Google Maps'>
