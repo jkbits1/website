@@ -300,12 +300,23 @@ ul#videos li a:hover {
   color: #408396;
 }
 
-.yld_logo {
-  margin-left: 10px;
+#yld span{
+  display:block;
+  padding:2px 0;
+}
+
+.yld_logo{
+  display:block;
+  float:left;
+  margin: 0 5px 10px;
+}
+
+.yld_logo img {
   width: 36px;
   height: 36px;
-  vertical-align: middle
+  vertical-align: middle;
 }
+
 #post_job input, textarea, select{
   display:inline-block;
   width:48%;

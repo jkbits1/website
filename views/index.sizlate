@@ -45,11 +45,13 @@
   </div>
   <div class='column right' id='venue'>
     <div id='yld'>
-      <a href='http://yld.io?lovefrom=lnug&src=img'>
-        <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting' class='yld_logo'></a>
-      <span>
-        <a href='http://yld.io?lovefrom=lnug&src=text'>High Performance Node.js</a>, proud sponsors of LNUG &lt;3
-      </span>
+      <a class='yld_logo' href='http://yld.io?lovefrom=lnug&src=img'>
+        <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting'>
+      </a>
+
+      <a href='http://yld.io?lovefrom=lnug&src=text'>High Performance Node.js</a>
+      <span>Proud sponsors of LNUG &lt;3</span>
+
     </div>
     <h2>The Venue</h2>
     <div id='map'>
