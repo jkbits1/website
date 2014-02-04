@@ -6,7 +6,7 @@
 
   <p>This code of conduct applies to attendees, speakers, and organisers at the monthly meetups and in related social events. This includes slide decks and listings on the job board.</p>
 
-  <h2>Unacceptable Behaviour</h2>
+  <h2 id="unacceptable-behaviour">Unacceptable Behaviour</h2>
 
   <p>The following behaviour is considered unacceptable and constitutes harassment:</p>
 
@@ -21,11 +21,11 @@
 
   <p>Participants asked to stop any harassing behavior are expected to comply immediately.</p>
 
-  <h2>Consequences Of Unacceptable Behaviour</h2>
+  <h2 id="consequences">Consequences Of Unacceptable Behaviour</h2>
 
   <p>If a participant engages in harassing behavior, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup.</p>
 
-  <h2>Reporting</h2>
+  <h2 id="reporting">Reporting</h2>
 
   <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.</p>
 
