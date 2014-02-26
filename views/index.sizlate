@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        26th February 2014.
+        26th March 2014.
       </strong>
     </p>
     <p>
@@ -18,23 +18,20 @@
     <h2>Talks</h2>
 
     <ul>
-      <li><a href='http://twitter.com/tomgco'>Tom Gallacher</a> - Easy CPU profiling in Nodejs</li>
-      <li><a href='http://twitter.com/ForbesLindesay'>Forbes Lindesay</a> - An introduction to the Jade templating language</li>
-      <li><a href='http://twitter.com/matteofigus'>Matteo Figus</a> - Performance tests on APIs using Node.js </li>
-      <li><a href='http://twitter.com/jaimefjorge'>Jaime Jorge</a> - Node in Codacy</li>
+      <li><a href='http://twitter.com/timruffles'>Tim Ruffles</a> - Tim will be hosting a Node Up podcast, we have a list of great speakers!</li>
     </ul>
 
-    <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
+    <!--<p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>-->
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='https://tito.io/lnug/february-2014'>Register on Tito</a>
+        <a href='https://tito.io/lnug/march-2014'>Register on Tito</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2014/lnug-february/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2014/lnug-march/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2014/lnug-february/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2014/lnug-march/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -48,7 +45,7 @@
   <div class='column right' id='venue'>
     <div id='yld'>
       <a class='yld_logo' href='http://yld.io?lovefrom=lnug&src=img'>
-        <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting'>
+        <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting'>
       </a>
 
       <a href='http://yld.io?lovefrom=lnug&src=text'>High Performance Node.js</a>
@@ -110,6 +107,16 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>February 2014 - <a href='http://lanyrd.com/2014/lnug-february/'>Lanyrd</a></h3>
+    
+  <ul>
+      <li><a href='http://twitter.com/tomgco'>Tom Gallacher</a> - Easy CPU profiling in Nodejs</li>
+      <li><a href='http://twitter.com/ForbesLindesay'>Forbes Lindesay</a> - An introduction to the Jade templating language</li>
+      <li><a href='http://twitter.com/matteofigus'>Matteo Figus</a> - Performance tests on APIs using Node.js </li>
+      <li><a href='http://twitter.com/jaimefjorge'>Jaime Jorge</a> - Node in Codacy</li>
+    </ul>
+
 
     <h3>January 2014 - <a href='http://lanyrd.com/2014/lnug-january/'>Lanyrd</a></h3>
 
