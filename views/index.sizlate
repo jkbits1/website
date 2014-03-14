@@ -18,8 +18,15 @@
     <h2>Talks</h2>
 
     <ul>
-      <li><a href='http://twitter.com/timruffles'>Tim Ruffles</a> - Tim will be hosting a Node Up podcast, we have a list of great speakers!</li>
-    </ul>
+	  <li><a href="https://twitter.com/timruffles">Tim Ruffles</a> - Tim will be hosting a Node Up podcast, we have a list of great speakers!</li>
+  	<ul>
+  		<li><a href="https://twitter.com/TheDeveloper">Geoff Wagstaff</a></li>
+  		<li><a href="https://twitter.com/ForbesLindesay">Forbes Lindesay</a></li>
+  		<li><a href="https://twitter.com/tancdev">Tancredi Trugenberge</a></li>
+  		<li><a href="https://twitter.com/rem">Remy Sharp</a></li>
+  		<li>...and more secret guests!</li>
+  	</ul>
+  </ul>
 
     <!--<p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>-->
 
