@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        26th March 2014.
+        23th April 2014.
       </strong>
     </p>
     <p>
@@ -16,29 +16,22 @@
     </ul>
 
     <h2>Talks</h2>
-
     <ul>
-	  <li><a href="https://twitter.com/timruffles">Tim Ruffles</a> - Tim will be hosting a Node Up podcast, we have a list of great speakers!</li>
-  	<ul>
-  		<li><a href="https://twitter.com/TheDeveloper">Geoff Wagstaff</a></li>
-  		<li><a href="https://twitter.com/ForbesLindesay">Forbes Lindesay</a></li>
-  		<li><a href="https://twitter.com/tancdev">Tancredi Trugenberge</a></li>
-  		<li><a href="https://twitter.com/rem">Remy Sharp</a></li>
-  		<li>...and more secret guests!</li>
-  	</ul>
-  </ul>
+    <li><a href="https://twitter.com/Jermolene">Jeremy Ruston</a>A Tale of Two Hosts: rebooting TiddlyWiki for Node.js and the browser</li>
+    <li><a href="https://twitter.com/simonmcmanus">Simon McManus</a>Home Automation With Javascript</li>
+    </ul>
 
-    <!--<p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>-->
+    <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='https://tito.io/lnug/march-2014'>Register on Tito</a>
+        <a href='https://tito.io/lnug/april-2014'>Register on Tito</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2014/lnug-march/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2014/lnug-april/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2014/lnug-march/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2014/lnug-april/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -114,6 +107,18 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+    
+    <h3>March 2014 - <a href='http://lanyrd.com/2014/lnug-march/'>Lanyrd</a></h3>
+   <ul><li> <a href="https://nodeup.hackpad.com/NodeUp-62-A-So-Very-British-Show-mbFadUiI13l">Notepad of the event</a></li>
+    <li><a href="https://www.youtube.com/watch?v=g1fWkoJwcVs&feature=youtu.be">Recording on YouTube</a></li></ul>
+  <ul>
+  <li><a href="https://twitter.com/timruffles">Tim Ruffles</a> - hosted a Node Up podcast, with guests listed below</li>
+    		<li><a href="https://twitter.com/TheDeveloper">Geoff Wagstaff</a></li>
+  		<li><a href="https://twitter.com/ForbesLindesay">Forbes Lindesay</a></li>
+  		<li><a href="https://twitter.com/tancdev">Tancredi Trugenberge</a></li>
+  		<li><a href="https://twitter.com/rem">Remy Sharp</a></li>
+  </ul>
+
 
     <h3>February 2014 - <a href='http://lanyrd.com/2014/lnug-february/'>Lanyrd</a></h3>
     
