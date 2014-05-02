@@ -17,9 +17,8 @@
 
     <h2>Talks</h2>
     <ul>
-    <li><a href="https://twitter.com/Jermolene">Jeremy Ruston</a>A Tale of Two Hosts: rebooting TiddlyWiki for Node.js and the browser</li>
-    <li><a href="https://twitter.com/simonmcmanus">Simon McManus</a>Home Automation With Javascript</li>
-    <li><a href="https://twitter.com/ismasan">Ismael Celis</a>Streaming downloads proxy service with Node.js</li>
+    <li><a href="https://twitter.com/">Jeremy Ruston</a>ABC</li>
+   
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
@@ -108,6 +107,12 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+    <h3>April 2014 -<a href='http://lanyrd.com/2014/lnug-april/'>Lanyrd</a></h3>
+      <ul>
+    <li><a href="https://twitter.com/Jermolene">Jeremy Ruston</a>A Tale of Two Hosts: rebooting TiddlyWiki for Node.js and the browser</li>
+    <li><a href="https://twitter.com/simonmcmanus">Simon McManus</a>Home Automation With Javascript</li>
+    <li><a href="https://twitter.com/ismasan">Ismael Celis</a>Streaming downloads proxy service with Node.js</li>
+    </ul>
     
     <h3>March 2014 - <a href='http://lanyrd.com/2014/lnug-march/'>Lanyrd</a></h3>
    <ul><li> <a href="https://nodeup.hackpad.com/NodeUp-62-A-So-Very-British-Show-mbFadUiI13l">Notepad of the event</a></li>
