@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        28th May 2014.
+        25th June 2014.
       </strong>
     </p>
     <p>
@@ -17,22 +17,21 @@
 
     <h2>Talks</h2>
     <ul>
-    <li><a href="https://twitter.com/thomasheymann">Thomas Heymann</a> - Slicing it up: How we built a micro-service for rendering shared client/server-side one-page apps</li>
-    <li><a href="https://twitter.com/malditogeek">Mauro Pompilio</a> - VMUX 2.0</li>
-    <li><a href="https://twitter.com/yrezgui">Yacine Rezgui</a> - Develop HTML5 mobile app in 2014</li>
+      <li><a href="https://twitter.com/cutandpastey">Jon Parsons</a> - Isomorphic Javascript What, Why and How</li>
+      <li><a href="https://twitter.com/paulbjensen">Paul Jensen</a> - Node-Webkit</li>
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='https://tito.io/lnug/may-2014'>Register on Tito</a>
+        <a href='https://tito.io/lnug/june-2014'>Register on Tito</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2014/lnug-may/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2014/lnug-june/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2014/lnug-may/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2014/lnug-june/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -109,6 +108,12 @@
   <div class='row clear'>
     <h2>Previous Events</h2>
 
+    <h3>May 2014 -<a href='http://lanyrd.com/2014/lnug-may/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href="https://twitter.com/thomasheymann">Thomas Heymann</a> - Slicing it up: How we built a micro-service for rendering shared client/server-side one-page apps</li>
+      <li><a href="https://twitter.com/malditogeek">Mauro Pompilio</a> - VMUX 2.0</li>
+      <li><a href="https://twitter.com/yrezgui">Yacine Rezgui</a> - Develop HTML5 mobile app in 2014</li>
+    </ul>
 
     <h3>April 2014 -<a href='http://lanyrd.com/2014/lnug-april/'>Lanyrd</a></h3>
 
