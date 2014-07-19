@@ -18,8 +18,8 @@
     <h2>Talks</h2>
     <ul>
       <li><a href="https://twitter.com/dscape">Nuno Job</a> - process.env.NODE_ENV === 'PRODUCTION' for all your 'webscale' apps!</li>
-      <li>Andrew Martin - Deployment Pipelines: Disproving the Big Bang</li>
-      <li>Luke Bond - TBD</li>
+      <li><a href="https://twitter.com/sublimino">Andrew Martin</a> - Deployment Pipelines: Disproving the Big Bang</li>
+      <li><a href="https://twitter.com/lukebond">Luke Bond</a> - TBD</li>
     </ul>
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
