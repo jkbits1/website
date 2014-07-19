@@ -16,14 +16,11 @@
     </ul>
 
     <h2>Talks</h2>
-    <p>Awaiting confirmation...</p>
-    <!--
     <ul>
-      <li><a href="https://twitter.com/cutandpastey">Jon Parsons</a> - Isomorphic Javascript What, Why and How</li>
-      <li><a href="https://twitter.com/paulbjensen">Paul Jensen</a> - Building desktop apps with Node Webkit</li>
-      <li><a href="https://twitter.com/jna_sh">Joe Nash</a> - Functional programming on the clientside with Fay and Elm</li>
+      <li><a href="https://twitter.com/dscape">Nuno Job</a> - process.env.NODE_ENV === 'PRODUCTION' for all your 'webscale' apps!</li>
+      <li>Andrew Martin - Deployment Pipelines: Disproving the Big Bang</li>
+      <li>Luke Bond - TBD</li>
     </ul>
-    -->
 
     <p>If you would like to speak, <a href='mailto:andrewnez@gmail.com?subject=LNUG'>get in touch</a></p>
 
@@ -111,6 +108,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>June 2014 -<a href='http://lanyrd.com/2014/lnug-june/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href="https://twitter.com/cutandpastey">Jon Parsons</a> - Isomorphic Javascript What, Why and How</li>
+      <li><a href="https://twitter.com/paulbjensen">Paul Jensen</a> - Building desktop apps with Node Webkit</li>
+      <li><a href="https://twitter.com/jna_sh">Joe Nash</a> - Functional programming on the clientside with Fay and Elm</li>
+    </ul>
 
     <h3>May 2014 -<a href='http://lanyrd.com/2014/lnug-may/'>Lanyrd</a></h3>
     <ul>
