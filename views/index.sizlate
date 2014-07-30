@@ -22,7 +22,7 @@
     <ul>
       <li><a href="https://twitter.com/dscape">Nuno Job</a> - process.env.NODE_ENV === 'PRODUCTION' for all your 'webscale' apps!</li>
       <li><a href="https://twitter.com/sublimino">Andrew Martin</a> - Deployment Pipelines: Disproving the Big Bang</li>
-      <li><a href="https://twitter.com/lukebond">Luke Bond</a> - TBD</li>
+      <li><a href="https://twitter.com/lukebond">Luke Bond</a> - ZeroMQ with Node</li>
     </ul>
 
     <p>If you would like to speak, <a href='http://github.com/lnug/speak'>get in touch</a></p>
