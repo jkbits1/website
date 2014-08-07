@@ -134,7 +134,7 @@ app.get '/nodecopter', (req,res) ->
 app.get '/code-of-conduct', (req,res) ->
   res.render 'code-of-conduct',
     layout: 'layout'
-app.get '/code-of-conduct', (req,res) ->
+app.get '/newsletter', (req,res) ->
   res.redirect 'http://eepurl.com/Zj9Db'
     
 
