@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        30th July 2014.
+        27th August 2014.
       </strong>
     </p>
     <p>
@@ -20,25 +20,26 @@
 
     <h2>Talks</h2>
     <ul>
-      <li><a href="https://twitter.com/dscape">Nuno Job</a> - process.env.NODE_ENV === 'PRODUCTION' for all your 'webscale' apps!</li>
-      <li><a href="https://twitter.com/sublimino">Andrew Martin</a> - Deployment Pipelines: Disproving the Big Bang</li>
-      <li><a href="https://twitter.com/lukebond">Luke Bond</a> - ZeroMQ with Node</li>
+      <li><a href="https://twitter.com/forbesmyester">Matt Forrester</a> - Offline Apps and Data Synchronization</li>
+      <li>Philipp Fehre - node.js and native code</li>
     </ul>
 
     <p>If you would like to speak, <a href='http://github.com/lnug/speak'>get in touch</a></p>
 
+<!--
     <ul class='event-actions'>
       <li class='register'>
-        <a href='https://ti.to/lnug/july-2014'>Register on Tito</a>
+        <a href='https://ti.to/lnug/august-2014'>Register on Tito</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2014/lnug-july/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2014/lnug-august/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2014/lnug-july/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2014/lnug-august/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
+-->
     <p>
       Any questions or if you are interested in talking, please get in touch at
       <br />
@@ -111,6 +112,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>July 2014 -<a href='http://lanyrd.com/2014/lnug-july/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href="https://twitter.com/dscape">Nuno Job</a> - process.env.NODE_ENV === 'PRODUCTION' for all your 'webscale' apps!</li>
+      <li><a href="https://twitter.com/sublimino">Andrew Martin</a> - Deployment Pipelines: Disproving the Big Bang</li>
+      <li><a href="https://twitter.com/lukebond">Luke Bond</a> - ZeroMQ with Node</li>
+    </ul>
 
     <h3>June 2014 -<a href='http://lanyrd.com/2014/lnug-june/'>Lanyrd</a></h3>
     <ul>
