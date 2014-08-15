@@ -134,8 +134,15 @@ app.get '/nodecopter', (req,res) ->
 app.get '/code-of-conduct', (req,res) ->
   res.render 'code-of-conduct',
     layout: 'layout'
+
 app.get '/newsletter', (req,res) ->
   res.redirect 'http://eepurl.com/Zj9Db'
+
+app.get '/feedback', (req,res) ->
+  res.redirect 'https://github.com/lnug/feedback'
+
+app.get '/speak', (req,res) ->
+  res.redirect 'https://github.com/lnug/speak'
     
 
 port = process.env.PORT || 8080
