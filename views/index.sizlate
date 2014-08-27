@@ -7,8 +7,9 @@
         27th August 2014.
       </strong>
     </p>
-    <p>
-	Come talk to us!<a href='https://gitter.im/lnug/discuss' alt='discuss on gitter'><img src='https://badges.gitter.im/lnug/discuss.png' /></a>
+    <p class="badge">
+        Come talk to us!
+        <a href='https://gitter.im/lnug/discuss' alt='discuss on gitter' class="badge"><img src='https://badges.gitter.im/lnug/discuss.png' /></a>
     </p>
     <p>
       Doors will open at 6:30pm where we will have
