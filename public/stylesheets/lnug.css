@@ -175,6 +175,17 @@ address {
 .right {
   float: right; }
 
+.badge {
+ vertical-align: middle }
+
+
+.badge a {
+  vertical-align: middle;
+  border-bottom: 0;
+  padding: 0;
+  line-height: 26px;
+  margin-left: 10px; }
+
 ul#videos {
   float: left;
   width: 715px;
