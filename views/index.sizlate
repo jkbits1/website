@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        27th August 2014.
+        24th September 2014.
       </strong>
     </p>
     <p class="badge">
@@ -21,22 +21,21 @@
 
     <h2>Talks</h2>
     <ul>
-      <li><a href="https://twitter.com/forbesmyester">Matt Forrester</a> - Offline Apps and Data Synchronization</li>
-      <li><a href="https://twitter.com/ischi">Philipp Fehre</a> - node.js and native code</li>
-      <li><a href="https://twitter.com/adam_baldwin">Adam Baldwin</a> - node.js security</li>
+      <li><a href="https://twitter.com/racekjakub">Jakub Racek</a> - Scanner and Printer Pi with Node sides</li>
+      <li><a href="https://twitter.com/fmsf303">Francisco Ferreira</a> - JavaScript, Java and Dart! Asynch all around us.</li>
     </ul>
 
     <p>If you would like to speak, <a href='http://github.com/lnug/speak'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='https://ti.to/lnug/august-2014'>Register on Tito</a>
+        <a href='https://ti.to/lnug/september-2014'>Register on Tito</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2014/lnug-august/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2014/lnug-september/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2014/lnug-august/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2014/lnug-september/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -104,15 +103,22 @@
     <a href='/jobs'>Browse the Job Board</a>
   </div>
 
-  <div class="row clear">
+  <!--div class="row clear">
     <h2>Videos From Previous Events</h2>
     <ul id="videos">
     </ul>
     <a href="http://vimeo.com/forwardtechnology/videos/search:lnug/sort:newest" target="_blank">View all videos from LNUG</a>
-  </div>
+  </div-->
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>August 2014 -<a href='http://lanyrd.com/2014/lnug-august/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href="https://twitter.com/forbesmyester">Matt Forrester</a> - Offline Apps and Data Synchronization</li>
+      <li><a href="https://twitter.com/ischi">Philipp Fehre</a> - node.js and native code</li>
+      <li><a href="https://twitter.com/adam_baldwin">Adam Baldwin</a> - node.js security</li>
+    </ul>
 
     <h3>July 2014 -<a href='http://lanyrd.com/2014/lnug-july/'>Lanyrd</a></h3>
     <ul>
@@ -354,15 +360,6 @@
       <li><a href='http://twitter.com/rtweed'>Rob Tweed</a> - The Globals Database: its significance for Node developers</li>
     </ul>
 
-    <p>
-      Why not join our
-      <a href='https://groups.google.com/group/lnug'>Google Group</a>
-      to stay connected, or you can
-      <a href='mailto:andrewnez@gmail.com?subject=LNUG'>
-        get in touch
-      </a>
-      directly.
-    </p>
   </div>
 
 </div>
