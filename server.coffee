@@ -138,11 +138,7 @@ app.get '/feedback', (req,res) ->
   res.redirect 'https://github.com/lnug/feedback'
 
 app.get '/speak', (req,res) ->
-  res.redirect 'https://github.com/lnug/speak'
-  
-app.get '/slides', (req,res) ->
-  res.redirect 'https://www.swipe.to/0958t'
-    
+  res.redirect 'https://github.com/lnug/speak'    
 
 port = process.env.PORT || 8080
 app.listen port
