@@ -127,10 +127,6 @@ app.post '/submit', (req,res) ->
         '.error': 'Invalid password'
       }
 
-app.get '/nodecopter', (req,res) ->
-  res.render 'nodecopter',
-    layout: 'layout'
-
 app.get '/code-of-conduct', (req,res) ->
   res.render 'code-of-conduct',
     layout: 'layout'
