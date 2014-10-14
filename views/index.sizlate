@@ -21,9 +21,9 @@
 
     <h2>Talks</h2>
     <ul>
-      <li><a href="https://twitter.com/substack">James Halliday</a> - TBD</li>
-      <li><a href="https://twitter.com/ben_hall">Ben Hall</a> - Node Anti-patterns</li>
       <li><a href="https://twitter.com/ischi">Philipp Fehre</a> - JSON throughout the Stack</li>
+      <li><a href="https://twitter.com/ben_hall">Ben Hall</a> - Node Anti-patterns</li>
+      <li><a href="https://twitter.com/substack">James Halliday</a> - Data Wizzard</li>
     </ul>
 
     <p>If you would like to speak, <a href='http://github.com/lnug/speak'>get in touch</a></p>
