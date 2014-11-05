@@ -4,7 +4,7 @@
     <p>
       The next meeting of LNUG is on the
       <strong>
-        22nd October 2014.
+        26th November 2014.
       </strong>
     </p>
     <p class="badge">
@@ -21,22 +21,23 @@
 
     <h2>Talks</h2>
     <ul>
-      <li><a href="https://twitter.com/ischi">Philipp Fehre</a> - JSON throughout the Stack</li>
-      <li><a href="https://twitter.com/ben_hall">Ben Hall</a> - Node Anti-patterns</li>
-      <li><a href="https://twitter.com/substack">James Halliday</a> - Data Wizzard</li>
+      <li><a href="https://twitter.com/sintaxi">Brock Whitten</a> - Harpjs</li>
+      <li><a href="https://twitter.com/tomgco">Tom Gallacher</a> - Async: the battle</li>
+      <li><a href="https://twitter.com/shapeshed">George Ornbo</a> - Realtime Node.js from the trenches</li>
+      <li><a href="https://twitter.com/tomcartwrightuk">Tom Cartwright</a> - Peer connect all the things</li>
     </ul>
 
     <p>If you would like to speak, <a href='http://github.com/lnug/speak'>get in touch</a></p>
 
     <ul class='event-actions'>
       <li class='register'>
-        <a href='https://ti.to/lnug/october-2014'>Register on Tito</a>
+        <a href='https://ti.to/lnug/november-2014'>Register on Tito</a>
       </li>
       <li class='lanyrd'>
-        <a href='http://lanyrd.com/2014/lnug-october/'>Lanyrd</a>
+        <a href='http://lanyrd.com/2014/lnug-november/'>Lanyrd</a>
       </li>
       <li class='addcal'>
-        <a href='http://lanyrd.com/2014/lnug-october/save-to-calendar/'>Add to Calendar</a>
+        <a href='http://lanyrd.com/2014/lnug-november/save-to-calendar/'>Add to Calendar</a>
       </li>
     </ul>
     <div class='clear'></div>
@@ -59,10 +60,10 @@
 
     </div>
     <h2>The Venue</h2>
-    <!-- <iframe width="870" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps/ms?msa=0&amp;msid=201121813882254696432.0004eb20cd464788e62f1&amp;ie=UTF8&amp;t=m&amp;ll=51.521962,-0.084811&amp;spn=0.001869,0.006212&amp;z=17&amp;output=embed"></iframe> -->
+    <!-- <iframe width="870" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2482.2326803506344!2d-0.08136299999999999!3d51.527291999999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cbac5a72401%3A0x4e966e554dedde10!2sLyst+Studios!5e0!3m2!1sen!2suk!4v1415152883702"></iframe> -->
     <div id='map'>
-      <a href='https://www.google.co.uk/maps?t=m&q=69+Wilson+Street%2C+London&output=classic' target='_blank' title='View on Google Maps'>
-        <img src='http://maps.googleapis.com/maps/api/staticmap?center=51.521962,-0.084811&amp;markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&amp;sensor=false&amp;zoom=15&amp;size=288x180&amp;maptype=roadmap' />
+      <a href='https://www.google.co.uk/maps?t=m&q=48+Hoxton+Square%2C+London&output=classic' target='_blank' title='View on Google Maps'>
+        <img src='http://maps.googleapis.com/maps/api/staticmap?center=51.527292,-0.081363&amp;markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&amp;sensor=false&amp;zoom=15&amp;size=288x180&amp;maptype=roadmap' />
       </a>
       <!-- <a href='https://www.google.co.uk/maps?t=m&q=33+Hoxton+Square%2C+London&output=classic' target='_blank' title='View on Google Maps'>
         <img src='http://maps.googleapis.com/maps/api/staticmap?center=51.5275243393,-0.0809630257082&amp;markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&amp;sensor=false&amp;zoom=15&amp;size=288x180&amp;maptype=roadmap' />
@@ -71,7 +72,7 @@
       <script type='text/javascript'>
         //<![CDATA[
           function initializeMap() {
-            var latlng = new google.maps.LatLng(51.521962, -0.084811);
+            var latlng = new google.maps.LatLng(51.527292, -0.081363);
             //var latlng = new google.maps.LatLng(51.5275243393, -0.0809630257082); Shoreditch
             var myOptions = {
               zoom: 15,
@@ -90,9 +91,9 @@
       </script>
     </div>
     <address>
-      7digital Limited (Head Office)
+      Lyst Studios
       <br />
-      69 Wilson Street, EC2A 2BB
+      48 Hoxton Square, N1 6PB
     </address>
     <!-- <address>
       Shoreditch Village Hall,
@@ -123,6 +124,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>October 2014 -<a href='http://lanyrd.com/2014/lnug-october/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href="https://twitter.com/ischi">Philipp Fehre</a> - JSON throughout the Stack</li>
+      <li><a href="https://twitter.com/ben_hall">Ben Hall</a> - Node Anti-patterns</li>
+      <li><a href="https://twitter.com/substack">James Halliday</a> - Data Wizzard</li>
+    </ul>
 
     <h3>September 2014 -<a href='http://lanyrd.com/2014/lnug-september/'>Lanyrd</a></h3>
     <ul>
