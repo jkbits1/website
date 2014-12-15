@@ -53,6 +53,21 @@
                     speaker.name.should.be.ok;
                 });
             });
+
+            describe('if it is fetched again', function() {
+                let newEvent;
+                before(function( done ) {
+                    event.hasBeenCached = true;
+                    lanyrdClient.getEvent("2014", "lnug-november").then(function( _event ) {
+                        newEvent = _event;
+                        done();
+                    }).done();
+                });
+
+                it('should have been cached', function() {
+                    newEvent.hasBeenCached.should.be.true;
+                })
+            });
         });
 
     });

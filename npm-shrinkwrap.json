@@ -554,6 +554,11 @@
           }
         }
       }
+    },
+    "soft-cache": {
+      "version": "1.0.2",
+      "from": "soft-cache@>=1.0.2 <1.1.0",
+      "resolved": "http://registry.npmjs.org/soft-cache/-/soft-cache-1.0.2.tgz"
     }
   }
 }

@@ -2,7 +2,9 @@
     "use strict";
 
     var Lanyrd = require('lanyrd'),
-        Q = require("q");
+        Q = require("q"),
+        SoftCache = require("soft-cache"),
+        softCache = new SoftCache(); // cache is static for all instances
 
     function LanyrdClient() {
 
@@ -51,6 +53,14 @@
 
         this.getEvent = function(year, name) {
             var fullEventDeferer = Q.defer(),
+                cacheKey = year+"_"+name,
+                event = softCache.get(cacheKey),
+                eventPromise,
+                speakersPromise;
+
+            if ( event ) {
+                fullEventDeferer.resolve(event);
+            } else {
                 eventPromise = getEventPromise(year,name),
                 speakersPromise = getSpeakersPromise(year, name);
 
@@ -58,9 +68,11 @@
                 eventPromise.then( function( eventData ) {
                      speakersPromise.then( function( speakers ) {
                         eventData.speakers = speakers;
+                        softCache.put(cacheKey, eventData);
                         fullEventDeferer.resolve(eventData);
                      }).done();
                 }).done();
+            }                
 
             return fullEventDeferer.promise;
         };
