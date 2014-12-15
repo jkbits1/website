@@ -30,6 +30,14 @@
                 event.date.should.equal("2014-11-26");
             });
 
+            it('should have a title', function() {
+                event.title.should.equal("London Node.js User Group Meetup - November 2014");
+            });
+
+            it('should have a starting time', function() {
+                event.starting_hour.should.equal("6:30pm");
+            });
+
             it('should contain an array with all speakers', function() {
                 event.speakers.length.should.equal(4);
             });

@@ -43,8 +43,10 @@
             var eventDeferer = Q.defer(),
                 event = {};
 
-            Lanyrd.event(name, year, function(err, resp, _event){
+            Lanyrd.event(name, year, function(err, resp, _event) {
+                event.title = _event.title;
                 event.date = _event.start_date;
+                event.starting_hour = _event.times;
                 eventDeferer.resolve(event);
             });
 
