@@ -21,10 +21,9 @@
 
     <h2>Talks</h2>
     <ul>
-      <li><a href="https://twitter.com/sintaxi">Brock Whitten</a> - Harpjs</li>
-      <li><a href="https://twitter.com/tomgco">Tom Gallacher</a> - Async: the battle</li>
-      <li><a href="https://twitter.com/shapeshed">George Ornbo</a> - Realtime Node.js from the trenches</li>
-      <li><a href="https://twitter.com/tomcartwrightuk">Tom Cartwright</a> - Peer connect all the things</li>
+      <li><a href="https://twitter.com/pimterry">Tim Perry</a> - Web Components & Microservices Are The Same Thing</li>
+      <li><a href="https://twitter.com/flomotlik">Florian Motlik</a> - Continuous Delivery with Codeship</li>
+      <li><a href="https://twitter.com/fmsf303">Francisco Ferreira</a> - Javascript Craftsmanship</li>
     </ul>
 
     <p>If you would like to speak, <a href='http://github.com/lnug/speak'>get in touch</a></p>
@@ -105,8 +104,6 @@
       <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/LNUGorg"  data-widget-id="421953882047016960">Tweets by @LNUGorg</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-
-
   </div>
 
   <div class='row clear'>
@@ -124,6 +121,13 @@
 
   <div class='row clear'>
     <h2>Previous Events</h2>
+
+    <h3>November 2014 -<a href='http://lanyrd.com/2014/lnug-november/'>Lanyrd</a></h3>
+    <ul>
+      <li><a href="https://twitter.com/tomgco">Tom Gallacher</a> - Async: the battle</li>
+      <li><a href="https://twitter.com/shapeshed">George Ornbo</a> - Realtime Node.js from the trenches</li>
+      <li><a href="https://twitter.com/tomcartwrightuk">Tom Cartwright</a> - Peer connect all the things</li>
+    </ul>
 
     <h3>October 2014 -<a href='http://lanyrd.com/2014/lnug-october/'>Lanyrd</a></h3>
     <ul>
