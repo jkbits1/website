@@ -24,7 +24,10 @@
   },
   "scripts": {
     "start": "coffee server.coffee",
-    "test": "mocha --recursive --harmony"
+    "testX": "mocha --recursive --harmony",
+    "testY": "mocha --recursive --harmony",
+    "testZ": "node-debug -p 9090 ./node_modules/moch/bin/_mocha --recursive --harmony",
+    "test": "node-debug -p 9090 mocha --recursive --harmony"
   },
   "engines": {
     "node": "0.10.21",
