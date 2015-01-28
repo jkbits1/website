@@ -50,15 +50,19 @@
     <p>Attendees and speakers are encouraged to read our <a href="/code-of-conduct">Code of Conduct</a>.</p>
   </div>
   <div class='column right' id='venue'>
-    <div id='yld'>
-      <a class='yld_logo' href='http://yld.io?lovefrom=lnug&src=img'>
-        <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting'>
-      </a>
+    <h3>Proud sponsors of LNUG &lt;3</h3>
+    <ul id='sponsors'>
+      <li>
+        <a class='yld_logo' href='http://yld.io?lovefrom=lnug&src=img'>
+          <img src='/images/yld.png' alt='Yld — Node.js Performance Consulting'>
+        </a>
 
-      <a href='http://yld.io?lovefrom=lnug&src=text'>High Performance Node.js</a>
-      <span>Proud sponsors of LNUG &lt;3</span>
-
-    </div>
+        <a href='http://yld.io?lovefrom=lnug&src=text'>High Performance Node.js</a>
+      </li>
+      <li class='lyst'>
+        <a href="http://www.lyst.com/">Lyst - Your world of fashion.</a>
+      </li>
+    </ul>
     <h2>The Venue</h2>
     <!-- <iframe width="870" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2482.2326803506344!2d-0.08136299999999999!3d51.527291999999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761cbac5a72401%3A0x4e966e554dedde10!2sLyst+Studios!5e0!3m2!1sen!2suk!4v1415152883702"></iframe> -->
     <div id='map'>

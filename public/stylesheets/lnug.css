@@ -300,26 +300,30 @@ ul#videos li a:hover {
   display:none !important;
 }
 
-#yld {
+#sponsors {
   background-color: #efffde;
   border-radius: 5px;
   padding: 1px;
 }
 
-#yld a {
+#sponsors a {
   border: 0;
   color: #408396;
 }
 
-#yld span{
+#sponsors span{
   display:block;
   padding:2px 0;
 }
 
-.yld_logo{
-  display:block;
-  float:left;
-  margin: 0 5px 10px;
+#sponsors li {
+  overflow: hidden;
+  border-bottom: 1px solid #d0f57e;
+  padding: 6px 10px;
+}
+
+#sponsors li:last-of-type {
+  border-bottom: 0;
 }
 
 .yld_logo img {
