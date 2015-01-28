@@ -21,10 +21,10 @@
 
     <h2>Talks</h2>
     <ul>
-      <li><a href="https://twitter.com/pimterry">Tim Perry</a> - Web Components & Microservices Are The Same Thing</li>
       <li><a href="https://twitter.com/flomotlik">Florian Motlik</a> - Continuous Delivery with Codeship</li>
-      <li><a href="https://twitter.com/fmsf303">Francisco Ferreira</a> - Javascript Craftsmanship</li>
       <li><a href="https://twitter.com/rosskukulinski">Ross Kukulinski</a> - What to expect when expecting IOJS</li>
+      <li><a href="https://twitter.com/fmsf303">Francisco Ferreira</a> - Javascript Craftsmanship</li>
+      <li><a href="https://twitter.com/pimterry">Tim Perry</a> - Web Components & Microservices Are The Same Thing</li>
     </ul>
 
     <p>If you would like to speak, <a href='http://github.com/lnug/speakers'>get in touch</a></p>
@@ -32,6 +32,9 @@
     <ul class='event-actions'>
       <li class='register'>
         <a href='https://ti.to/lnug/january-2015'>Register on Tito</a>
+      </li>
+      <li class='lanyrd'>
+        <a href='http://lanyrd.com/2015/lnug-january/'>Lanyrd</a>
       </li>
       <li class='addcal'>
         <a href='http://lanyrd.com/2015/lnug-january/save-to-calendar/'>Add to Calendar</a>
